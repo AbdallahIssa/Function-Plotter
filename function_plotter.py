@@ -4,7 +4,6 @@ import numpy as np # numpy for maths operations.
 import matplotlib.pyplot as plt # MatplotLib & PyPlot for plotting graph.
 import re # Regular expressions
 
-#python function_plotter.py
 
 root = Tk()
 root.title("Function plotter")
