@@ -6,7 +6,7 @@
 * [Technologies Used](#technologies-used)
 * [Usage](#usage)
 * [Screenshots](#screenshots)
-* [Test codes](#test codes)
+* [Test Codes](#test-codes)
 * [Contact](#contact)
 
 
