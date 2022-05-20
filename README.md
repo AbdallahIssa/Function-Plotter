@@ -29,13 +29,13 @@ python Function-Plotter.py
 
 
 ## Screenshots
-![Function_plotter GUI](https://github.com/abdallahissa/Function-Plotter/issues/1#issue-1242893853)
+![Function_plotter GUI] (https://github.com/abdallahissa/Function-Plotter/issues/1#issue-1242893853)
 
-![inputValid popup](https://github.com/abdallahissa/Function-Plotter/issues/2#issue-1242897874)
+![inputValid popup] (https://github.com/abdallahissa/Function-Plotter/issues/2#issue-1242897874)
 
-![MissedField popup](https://github.com/abdallahissa/Function-Plotter/issues/3#issue-1242898662)
+![MissedField popup] (https://github.com/abdallahissa/Function-Plotter/issues/3#issue-1242898662)
 
-![plotting a function](https://github.com/abdallahissa/Function-Plotter/issues/4#issue-1242899232)
+![plotting a function] (https://github.com/abdallahissa/Function-Plotter/issues/4#issue-1242899232)
 
 
 
