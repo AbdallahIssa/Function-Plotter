@@ -40,7 +40,7 @@
 
 
 ## Test codes
-- With unittest library , I could test this code in an automated way. (Not all the functions were tested because I am still want to know about Testing). 
+- With unittest library , I could test this code in an automated way. (Not all the functions were tested because I still want to know about Testing). 
 
 
 ### Contact
